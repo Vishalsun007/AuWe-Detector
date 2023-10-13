@@ -15,7 +15,7 @@
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/william-renaldy/HackAI-Hack-230634.git
+   git clone https://github.com/Vishalsun007/AuWe-Detector.git
    ```
 
 
